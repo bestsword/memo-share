@@ -1,9 +1,0 @@
->Mysql order by与limit混用陷阱
-
-【原因】：order by的字段值有重复的值
-【深层次原因】：官方文档里面有提到如果你将Limit row_count与order by混用，mysql会找到排序的row_count行后立马返回，而不是排序整个查询结果再返回。
-【解决】：Limit存在或不存在的情况下，都保证排序结果相同，可以额外加一个排序条件。例如id字段是唯一的，可以考虑在排序字段中额外加个id排序去确保顺序稳定。
-
-
-
->https://blog.csdn.net/qiubabin/article/details/70135556

@@ -1,0 +1,2 @@
+> 国家授时中心：
+ntpdate -u cn.pool.ntp.org

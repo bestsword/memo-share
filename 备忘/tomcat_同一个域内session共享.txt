@@ -1,0 +1,2 @@
+tomcat、weblogic、websphere的session默认都是JSESSIONID 为key来识别的，因此在没有特别设置下，同一个域下的多个应用session会互相覆盖。 
+https://blog.csdn.net/xiaobudaics/article/details/51604028
