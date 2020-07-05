@@ -1,6 +1,4 @@
 
-*by betsword (knocout@163.com)
-
 **这是以前学习的时候整理的文档，以备有空时复习。 **
 ##### 目录结构
 <pre>
@@ -109,3 +107,4 @@ note-share
         获取所有的表和字段信息.xlsx
 </pre>
 ![sword](sword.png "best sword")
+*by betsword (knocout@163.com)*
