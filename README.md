@@ -1,7 +1,7 @@
 
-*by betsword (knocout@163.com)
+> by betsword (knocout@163.com)
 
-**这是以前学习的时候整理的文档，以备有空时复习。 **
+**这是以前学习的时候整理的文档，以备有空时复习。**
 ##### 目录结构
 <pre>
 note-share
